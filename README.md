@@ -1,7 +1,7 @@
 # Boas vindas ao repositório do projeto Talker Manager!
 Continuando o meu desenvolvido em Node JS, pude aprender mais sobre o padrão REST e arquitura MSC. Também aprendi a realizar testes unitários por camadas e aqui pude ver pela primeira vez, algo que já era a muito tempo aguardado por mim. Como fazer a integração das aplicações web com bancos de dados.
 
-O objetivo desse projeto foi construir uma API de um sistema de gerenciamento de vendas para criar, visualizar, deletar e atualizar produtos e vendas.
+O objetivo desse projeto foi construir uma API de um sistema de gerenciamento de vendas para criar, visualizar, deletar e atualizar produtos e vendas usando a arquitetura MSC.
 
 ---
 
