@@ -36,11 +36,11 @@ cd projeto-andre
 
 3. Faça o clone do projeto executando o comando a seguir:
 ```bash
-git clone https://github.com/AndreBarroso/sd-010-a-project-talker-manager.git
+git clone https://github.com/AndreBarroso/sd-010-a-store-manager.git
 ```
 4. Acesse a pasta criada executando o comando a seguir:
 ```bash
-cd sd-010-a-project-talker-manager
+cd sd-010-a-store-manager
 ```
 
 5. Instale as dependências do projeto executando:
